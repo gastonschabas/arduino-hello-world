@@ -12,7 +12,12 @@ my first project in Arduino Uno R3
 
 8 LEDs connected to Arduino pins from 0 to 7. Once it started it will turn on one led at a time in increasing sequence
 and then in a decreasing sequence.
+
 ![Circuit Preview](doc/arduino-hello-world-circuit-preview.png)
+
+# Code
+
+The code for Arduino can be found in the `src` directory. It's just a single file written in `C`.
 
 # Simulation
 
